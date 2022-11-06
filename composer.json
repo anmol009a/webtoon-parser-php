@@ -13,7 +13,6 @@
             "email": "anmolsharma009a@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "msankhala/parsehub-php": "^2.0"
     }
