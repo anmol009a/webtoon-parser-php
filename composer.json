@@ -1,10 +1,19 @@
 {
     "name": "anmol009a/webtoon-parser-php",
+    "description": "todo",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Anmol009a\\WebtoonParserPhp\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "Anmol Sharma",
+            "email": "anmolsharma009a@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
     "require": {
         "msankhala/parsehub-php": "^2.0"
     }
