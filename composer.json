@@ -1,0 +1,11 @@
+{
+    "name": "anmol009a/webtoon-parser-php",
+    "autoload": {
+        "psr-4": {
+            "Anmol009a\\WebtoonParserPhp\\": "src/"
+        }
+    },
+    "require": {
+        "msankhala/parsehub-php": "^2.0"
+    }
+}
