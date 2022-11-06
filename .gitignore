@@ -3,4 +3,4 @@ vendor
 # composer lock file
 composer.lock
 # test file
-index.php
+/index.php
